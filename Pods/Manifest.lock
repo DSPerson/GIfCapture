@@ -1,0 +1,16 @@
+PODS:
+  - NSGIF (1.2.4)
+
+DEPENDENCIES:
+  - NSGIF
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - NSGIF
+
+SPEC CHECKSUMS:
+  NSGIF: 442808fd1667ebac3d09046c3f6d4bdd6720cded
+
+PODFILE CHECKSUM: 7e3b2432f83ced5bf06a840c18117ba07c43ea05
+
+COCOAPODS: 1.7.0.rc.2

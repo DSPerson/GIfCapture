@@ -1,0 +1,6 @@
+framework module Pods_DSpersonGifRecord {
+  umbrella header "Pods-DSpersonGifRecord-umbrella.h"
+
+  export *
+  module * { export * }
+}
